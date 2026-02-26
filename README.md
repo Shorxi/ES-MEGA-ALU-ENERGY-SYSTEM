@@ -66,7 +66,7 @@ konzipiert für die großindustrielle Energieerzeugung, vollständige Kreislaufw
 und radikale Transparenz. Durch die kontrollierte Reaktion von Aluminium und Wasser 
 liefert es Strom, Wasserstoff und Prozesswärme ohne schädliche Emissionen.
 
-- [Warum‑ES‑MEGA‑ALU?](Why_ES‑MEGA‑ALU?md)
+- [Warum‑ES‑MEGA‑ALU?](Why_ES‑MEGA‑ALU?.md)
 
 ---
 
