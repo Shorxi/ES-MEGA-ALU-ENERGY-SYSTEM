@@ -2,7 +2,7 @@
 
 EN:
 # Contact & Licensing Inquiries  
-## Luminarit‑GreenRAM V2 – Official Contact Information
+## ES‑MEGA‑ALU-ENERGY-SYSTEM – Official Contact Information
 
 For questions regarding:
 
@@ -18,14 +18,14 @@ please contact:
 **Name:** Emanuel Schaaf  
 **Email:** emanuel.schaaf@outlook.com
 **Location:** Pirmasens, Germany  
-**Role:** Architect & Originator of the Luminarit‑GreenRAM V2 Technology
+**Role:** Architect & Originator of the ES‑MEGA‑ALU‑ENERGIE-SYSTEM Technology
 
 ---
 
 ### Important Notice
 By contacting the creator, you acknowledge that:
 
-- Luminarit‑GreenRAM V2 is protected under the official usage & revenue‑sharing license.  
+- ES‑MEGA‑ALU‑ENERGIE-SYSTEM is protected under the official usage & revenue‑sharing license.  
 - Commercial use requires prior agreement with the rights holder.  
 - All inquiries will be handled confidentially.
 
@@ -39,13 +39,13 @@ This contact channel exists to:
 - support sustainable innovation  
 - enable transparent communication between users and the creator
 
-Thank you for your interest in Luminarit‑GreenRAM V2.
+Thank you for your interest in ES‑MEGA‑ALU-ENERGY-SYSTEM.
 ---
 
   
 DE:
 # Kontakt & Lizenzanfragen  
-## Luminarit‑GreenRAM V2 – Offizielle Kontaktinformationen
+## ES‑MEGA‑ALU‑ENERGIE-SYSTEM – Offizielle Kontaktinformationen
 
 Für Fragen zu:
 
@@ -61,14 +61,14 @@ kontaktieren Sie bitte:
 **Name:** Emanuel Schaaf  
 **E-Mail:** emanuel.schaaf@outlook.com
 **Standort:** Pirmasens, Deutschland  
-**Rolle:** Architekt & Urheber der Luminarit‑GreenRAM V2 Technologie
+**Rolle:** Architekt & Urheber der ES‑MEGA‑ALU‑ENERGIE-SYSTEM Technologie
 
 ---
 
 ### Wichtiger Hinweis
 Mit der Kontaktaufnahme erkennen Sie an, dass:
 
-- Luminarit‑GreenRAM V2 unter einer offiziellen Nutzungs- und Gewinnbeteiligungslizenz steht.  
+- ES‑MEGA‑ALU‑ENERGIE-SYSTEM unter einer offiziellen Nutzungs- und Gewinnbeteiligungslizenz steht.  
 - Kommerzielle Nutzung eine vorherige Vereinbarung mit dem Rechteinhaber erfordert.  
 - Alle Anfragen vertraulich behandelt werden.
 
@@ -82,5 +82,5 @@ Dieser Kontaktkanal dient dazu:
 - nachhaltige Innovationen zu fördern  
 - transparente Kommunikation zwischen Nutzern und dem Urheber zu ermöglichen
 
-Vielen Dank für Ihr Interesse an Luminarit‑GreenRAM V2.
+Vielen Dank für Ihr Interesse an ES‑MEGA‑ALU‑ENERGIE-SYSTEM.
   
