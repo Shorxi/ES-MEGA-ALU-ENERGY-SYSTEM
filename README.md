@@ -1,3 +1,6 @@
+
+<img width="603" height="379" alt="Skitzze" src="https://github.com/user-attachments/assets/a2c867ce-a905-4347-8655-c87553b2872b" />
+
 EN:
 # ES‑MEGA‑ALU Energy System  
 ### Modular, Emission‑Free, High‑Power Aluminum‑Water Energy Architecture
