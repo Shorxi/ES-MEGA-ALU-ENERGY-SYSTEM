@@ -7,7 +7,7 @@ industrial‑scale power generation, full circularity, and radical transparency.
 By harvesting energy from the controlled reaction of aluminum and water, 
 it provides electricity, hydrogen, and thermal energy without harmful emissions.
 
-- [Why‑ES‑MEGA‑ALU?](Why_ES‑MEGA‑ALU?.md)
+- [Why‑ES‑MEGA‑ALU?](Why_ES‑MEGA‑ALU.md)
 
 ---
 
@@ -66,7 +66,7 @@ konzipiert für die großindustrielle Energieerzeugung, vollständige Kreislaufw
 und radikale Transparenz. Durch die kontrollierte Reaktion von Aluminium und Wasser 
 liefert es Strom, Wasserstoff und Prozesswärme ohne schädliche Emissionen.
 
-- [Warum‑ES‑MEGA‑ALU?](Why_ES‑MEGA‑ALU?.md)
+- [Warum‑ES‑MEGA‑ALU?](Why_ES‑MEGA‑ALU.md)
 
 ---
 
