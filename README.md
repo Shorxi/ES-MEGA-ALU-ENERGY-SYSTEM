@@ -50,7 +50,7 @@ For licensing, collaboration, or commercial integration:
 ---
 
 ## 📂 Repository Structure
-- [Description.md](ES‑MEGA‑ALU-ENERGY-SYSTEM_EN.pdf)
+- [Description](ES‑MEGA‑ALU-ENERGY-SYSTEM_EN.pdf)
 - [Technical-Dossier](TECHNICAL_DOSSIER_EN.pdf)
 - [Simulation-Results](ES-MEGA-ALU-ENERGY-SYSTEM_Simulation_EN)
 
@@ -109,6 +109,6 @@ Für Lizenzierung, Kooperationen oder kommerzielle Nutzung:
 ---
 
 ## 📂 Repository-Struktur
-- [Beschreibung.md](ES‑MEGA‑ALU‑ENERGIE-SYSTEM_DE)
+- [Beschreibung](ES‑MEGA‑ALU‑ENERGIE-SYSTEM_DE)
 - [Technisches-Dossier](ES‑MEGA‑ALU‑ENERGIE-SYSTEM_DE.pdf)
-- [Simulations-Ergebnisse.md](ES-MEGA-ALU-ENERGIE-SYSTEM_Simulation_DE)
+- [Simulations-Ergebnisse](ES-MEGA-ALU-ENERGIE-SYSTEM_Simulation_DE)
